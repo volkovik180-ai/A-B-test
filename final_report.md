@@ -270,11 +270,10 @@ print(f"✅ Выборка на группу: {int(np.ceil(n_per_group)):,}")
 ```
 /АВ-тесты/
 ├── ab_test_logs.csv              # Исходные данные (~200к строк)
-├── ab_test_analysis.py           # Код анализа в Python
+├── ab_test_analysis.ipynb          # Код анализа в Python
 ├── ab_test_dashboard.png         # Визуализация результатов
 ├── ab_test_daily_dynamics.png    # Динамика по дням (отдельный слайд)
-├── dl_*.csv                      # Данные для DataLens
-└── final_report.pdf              # Итоговый отчёт
+└── final_report.md             # Итоговый отчёт
 ```
 
 ### 🔗 Ссылки на инструменты
